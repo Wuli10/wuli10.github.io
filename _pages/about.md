@@ -11,11 +11,11 @@ redirect_from:
 
 **Ph.D. Student**
 
-Dialogue Technology Group(http://ir.hit.edu.cn/~dt/)
+[Dialogue Technology Group](http://ir.hit.edu.cn/~dt/)
 
-Research Center for Social Computing and Information Retrieval(http://ir.hit.edu.cn/)
+[Research Center for Social Computing and Information Retrieval](http://ir.hit.edu.cn/)
 
-Harbin Institute of Technology(https://www.hit.edu.cn/)
+[Harbin Institute of Technology](https://www.hit.edu.cn/)
 
 **Educations**
 ------
