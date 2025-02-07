@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1500_2000 -头像.png"
   name             : "Lei Wu"
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
@@ -350,3 +350,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+  
