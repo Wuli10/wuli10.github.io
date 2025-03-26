@@ -10,7 +10,7 @@ redirect_from:
 
 **Ph.D. Student**
 
-I'am a PH.D. Student in [Dialogue Technology Group](http://ir.hit.edu.cn/~dt/), [Research Center for Social Computing and Information Retrieval](http://ir.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/), supervised by Prof.[Wei-Nan Zhang](https://homepage.hit.edu.cn/zhangweinan?lang=zh). My research interests are Embodied AI、Embodied Multimodal Perception, especially focus on Multimodal Fine-Grained Understanding and Spatial Reasoning.
+I'am a PH.D. Student in [Dialogue Technology Group](http://ir.hit.edu.cn/~dt/), [Research Center for Social Computing and Interactive Robotics](http://ir.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/), supervised by Prof.[Wei-Nan Zhang](https://homepage.hit.edu.cn/zhangweinan?lang=zh). My research interests are Embodied AI、Embodied Multimodal Perception, especially focus on Multimodal Fine-Grained Understanding and Spatial Reasoning.
 
 **Educations**
 ------
