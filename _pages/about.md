@@ -24,7 +24,7 @@ redirect_from:
 **Research Interests**
 ------
 - Embodied AI
-- Embodied Perception
+- Embodied Multimodal Perception
 - LLM
 
 **Selected Publications**
