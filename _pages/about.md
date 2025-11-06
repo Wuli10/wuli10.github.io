@@ -26,5 +26,6 @@ I'am a PH.D. Student in [Dialogue Technology Group](http://ir.hit.edu.cn/~dt/), 
 **Selected Publications**
 ------
 - Ruiyu Xiao, **Lei Wu**, Yuhang Gou, Weinan Zhang, Ting Liu. *Prove Your Point!: Bringing Proof-Enhancement Principles to Argumentative Essay Generation.* EMNLP 2024(Main).[Paper](https://aclanthology.org/2024.emnlp-main.1058/)
+- Ruiyu Xiao, **Lei Wu**, Yuanxing Liu, Weinan Zhang, Ting Liu. *Stimulate the Critical Thinking of LLMs via Debiasing Discussion.* EMNLP 2025(Main).[Paper](https://aclanthology.org/2025.emnlp-main.579/)
 
 
